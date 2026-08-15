@@ -248,3 +248,50 @@ View Project →
 </table>
 
 <br>
+
+<div align="center">
+
+<h2>⚙️ Engineering Highlights</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💳 Idempotent Payments</h3>
+
+<p>
+The payment system uses <strong>idempotency keys</strong> to prevent
+duplicate transfer requests from creating duplicate transactions.
+</p>
+
+<p>
+<strong>Flow:</strong><br>
+Request → Idempotency Key → Redis Check → Process Transfer → Store Result
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏨 Concurrent Booking Protection</h3>
+
+<p>
+The reservation engine uses <strong>Redis distributed locks</strong>
+through Redisson to prevent concurrent requests from booking
+the same room for overlapping dates.
+</p>
+
+<p>
+<strong>Flow:</strong><br>
+Booking Request → Acquire Lock → Validate Availability → Hold Room → Release Lock
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
