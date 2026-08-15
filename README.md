@@ -407,13 +407,35 @@ Hotel Reservation Engine
 
 <div align="center">
 
-<h2>📊 GitHub Activity</h2>
+<h2>📡 Let's Connect</h2>
 
 <p>
-A snapshot of my coding activity and open-source journey.
+Interested in software engineering, backend development,
+AI, or building something interesting?
 </p>
+
+<br>
+
+<a href="mailto:arathanark29@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-07111F?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/arathana29/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/arathana29">
+<img src="https://img.shields.io/badge/GitHub-Follow-07111F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub">
+</a>
+
+<br><br>
+
+<sub>Building • Learning • Improving • One commit at a time.</sub>
 
 </div>
 
 <br>
-
