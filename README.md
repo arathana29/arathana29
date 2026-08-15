@@ -4,7 +4,9 @@
 
 <br><br>
 
-<h2>Aspiring Software Engineer | Java Developer</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=150&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Applications" />
+
+
 
 <p>
 Building Scalable Applications with Java & Spring Boot
@@ -20,7 +22,7 @@ AI & Data Science Student • Problem Solver • Open to Internship Opportunitie
 
 <div align="center">
 
-<h2>⚡ whoami</h2>
+<h2>⚡ WHO AM I? h2>
 
 <pre align="left">
 $ whoami
