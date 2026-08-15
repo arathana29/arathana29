@@ -70,9 +70,7 @@ Open to Internship Opportunities
 
 <img src="https://skillicons.dev/icons?i=java,python" />
 
-<br>
-
-<sub>SQL</sub>
+<img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="60" height="60" alt="SQL" />
 
 <br><br>
 
