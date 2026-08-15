@@ -151,3 +151,76 @@ Turning real-world requirements into
 </div>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+<h2>🚀 Featured Projects</h2>
+
+<p>
+A selection of backend systems focused on real-world engineering problems,
+reliability, and scalable application design.
+</p>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💳 Finance & Banking Payment Ledger & Wallet System</h3>
+
+<p>
+A backend financial system built with Java and Spring Boot,
+featuring secure authentication, wallet management,
+money transfers, and transaction ledger tracking.
+</p>
+
+<p>
+<strong>Focus:</strong> Financial Transactions • Idempotency • REST APIs
+</p>
+
+<p>
+<strong>Stack:</strong> Java • Spring Boot • PostgreSQL • Redis
+</p>
+
+<p align="center">
+<a href="https://github.com/arathana29/Finance-and-Banking-Java-Project">
+View Project →
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏨 High-Concurrency Hotel Reservation Engine</h3>
+
+<p>
+A backend hotel reservation system designed to handle
+room availability, temporary booking holds, payments,
+and concurrent booking requests without overbooking.
+</p>
+
+<p>
+<strong>Focus:</strong> Concurrency • Distributed Locking • Booking Reliability
+</p>
+
+<p>
+<strong>Stack:</strong> Java • Spring Boot • PostgreSQL • Redis • Redisson
+</p>
+
+<p align="center">
+<a href="https://github.com/ranjanashakthidv/PROJECT2">
+View Project →
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
