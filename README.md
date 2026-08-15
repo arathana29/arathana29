@@ -55,7 +55,7 @@ Open to Internship Opportunities
 <a href="mailto:arathanark29@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-07111F?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email">
 </a>
-
+  
 </div>
 
 <br>
