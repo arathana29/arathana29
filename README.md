@@ -99,3 +99,55 @@ Open to Internship Opportunities
 </div>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+<h2>🚀 What I Build</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ☕ Backend Engineering
+
+Building practical backend applications with
+**Java, Spring Boot, REST APIs and databases.**
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚡ Scalable Systems
+
+Exploring **concurrency, transactions, booking systems
+and reliable application architecture.**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI & Data Science
+
+Applying my **AI & Data Science** background to
+data-driven and intelligent applications.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧩 Problem Solving
+
+Turning real-world requirements into
+**structured, maintainable software solutions.**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
