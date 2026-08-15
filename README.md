@@ -402,3 +402,17 @@ Hotel Reservation Engine
 </ul>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+<h2>📊 GitHub Activity</h2>
+
+<p>
+A snapshot of my coding activity and open-source journey.
+</p>
+
+</div>
+
+<br>
