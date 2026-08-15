@@ -379,9 +379,26 @@ Hotel Reservation Engine
 
 </div>
 
-<table>
-<tr>
+<hr>
 
-| 📜 Certifications | 📚 Currently Learning |
-|:---|:---|
-| **Java Bootcamp** — Udemy<br><br>**Python Course** — Scaler Topics<br><br>**Python 101 for Data Science** — Cognitive Class | **Advanced Java**<br><br>**Spring Boot & REST API Development**<br><br>**Backend Architecture**<br><br>**System Design Fundamentals**<br><br>**Machine Learning & AI** |
+<h3>📜 Certifications</h3>
+
+<ul>
+<li><strong>Java Bootcamp</strong> — Udemy</li>
+<li><strong>Python Course</strong> — Scaler Topics</li>
+<li><strong>Python 101 for Data Science</strong> — Cognitive Class</li>
+</ul>
+
+<br>
+
+<h3>📚 Currently Learning</h3>
+
+<ul>
+<li><strong>Advanced Java</strong></li>
+<li><strong>Spring Boot & REST API Development</strong></li>
+<li><strong>Backend Architecture</strong></li>
+<li><strong>System Design Fundamentals</strong></li>
+<li><strong>Machine Learning & AI</strong></li>
+</ul>
+
+<br>
