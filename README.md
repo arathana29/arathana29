@@ -68,7 +68,10 @@ Open to Internship Opportunities
 
 <p><strong>Languages</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,python,sql,javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev/icons?i=javascript" />
 
 <br><br>
 
