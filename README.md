@@ -187,6 +187,18 @@ money transfers, and transaction ledger tracking.
 <strong>Stack:</strong> Java • Spring Boot • PostgreSQL • Redis
 </p>
 
+<p>
+<strong>Key Engineering Highlights:</strong>
+</p>
+
+<ul>
+<li>JWT-based authentication with Spring Security</li>
+<li>Wallet balance and user-to-user money transfers</li>
+<li>Transaction and payment ledger tracking</li>
+<li>Idempotency keys to prevent duplicate transfers</li>
+<li>Redis-based idempotency handling</li>
+</ul>
+
 <p align="center">
 <a href="https://github.com/arathana29/Finance-and-Banking-Java-Project">
 View Project →
@@ -212,6 +224,18 @@ and concurrent booking requests without overbooking.
 <p>
 <strong>Stack:</strong> Java • Spring Boot • PostgreSQL • Redis • Redisson
 </p>
+
+<p>
+<strong>Key Engineering Highlights:</strong>
+</p>
+
+<ul>
+<li>Room availability and reservation management</li>
+<li>5-minute temporary room holds during checkout</li>
+<li>Automatic release of expired room holds</li>
+<li>Redis distributed locks using Redisson</li>
+<li>Concurrency protection to prevent room overbooking</li>
+</ul>
 
 <p align="center">
 <a href="https://github.com/ranjanashakthidv/PROJECT2">
