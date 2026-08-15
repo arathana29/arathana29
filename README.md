@@ -25,23 +25,35 @@ AI & Data Science Student • Problem Solver • Open to Internship Opportunitie
 <h2>⚡ WHO AM I? <h2>
 
 <pre align="left">
+
 $ whoami
 Arathana R K
 
-$ role
-Aspiring Software Engineer • Java Developer
+$ identity
+Aspiring Software Engineer
+Java Backend Developer
 
 $ focus
-Java • Spring Boot • Backend Development
+Java
+Spring Boot
+Backend Development
 
 $ background
-AI & Data Science
+Artificial Intelligence & Data Science
 
-$ learning
-Advanced Java • Spring Boot • Backend Technologies
+$ currently_learning
+Advanced Java
+Spring Boot
+Backend Architecture
+REST API Development
+
+$ building
+Scalable Backend Systems
+Clean & Efficient APIs
 
 $ status
 Open to Internship Opportunities
+
 </pre>
 
 <br>
