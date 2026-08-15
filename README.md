@@ -22,7 +22,7 @@ AI & Data Science Student • Problem Solver • Open to Internship Opportunitie
 
 <div align="center">
 
-<h2>⚡ WHO AM I? h2>
+<h2>⚡ WHO AM I? <h2>
 
 <pre align="left">
 $ whoami
