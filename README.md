@@ -382,6 +382,9 @@ Hotel Reservation Engine
 <table>
 <tr>
 
+<table width="100%">
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>📜 Certifications</h3>
@@ -410,5 +413,3 @@ Hotel Reservation Engine
 
 </tr>
 </table>
-
-<br>
