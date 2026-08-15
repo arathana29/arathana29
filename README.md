@@ -59,3 +59,41 @@ Open to Internship Opportunities
 </div>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<p><strong>Languages</strong></p>
+
+<img src="https://skillicons.dev/icons?i=java,python,sql,javascript" />
+
+<br><br>
+
+<p><strong>Backend</strong></p>
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<br><br>
+
+<p><strong>Web</strong></p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+
+<br><br>
+
+<p><strong>Database</strong></p>
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis" />
+
+<br><br>
+
+<p><strong>Tools & DevOps</strong></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
+</div>
+
+<br>
