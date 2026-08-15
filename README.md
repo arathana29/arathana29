@@ -329,3 +329,44 @@ looking for opportunities where I can learn, contribute, and grow.
 </p>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+<h2>💼 Experience</h2>
+
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+<h3>☕ Java Development Intern</h3>
+
+<p>
+<strong>Infotact Solutions</strong> • 2 Months
+</p>
+
+<p>
+Worked on backend development using <strong>Java and Spring Boot</strong>,
+with hands-on exposure to building and testing REST APIs and
+working with application data and backend services.
+</p>
+
+<p>
+<strong>Technologies:</strong>
+Java • Spring Boot • Redis • Docker • Postman • Git • GitHub
+</p>
+
+<p>
+<strong>Project Exposure:</strong>
+Finance & Banking Payment Ledger & Wallet System •
+Hotel Reservation Engine
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
