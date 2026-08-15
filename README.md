@@ -295,3 +295,37 @@ Booking Request → Acquire Lock → Validate Availability → Hold Room → Rel
 </div>
 
 <br>
+
+<br><br>
+
+<div align="center">
+
+<h2>👨‍💻 About Me</h2>
+
+</div>
+
+<p>
+I'm an <strong>Artificial Intelligence & Data Science</strong> student
+with a growing focus on <strong>Java backend development</strong> and
+<strong>Spring Boot</strong>.
+</p>
+
+<p>
+I enjoy building practical software systems and exploring the engineering
+behind <strong>REST APIs, databases, authentication, concurrency,
+distributed systems, and application reliability</strong>.
+</p>
+
+<p>
+Currently, I'm strengthening my Java and backend development skills while
+working toward becoming a <strong>Software Engineer</strong> capable of
+building scalable and intelligent applications.
+</p>
+
+<p>
+I'm also interested in the intersection of
+<strong>software engineering, data, and AI</strong>, and I'm actively
+looking for opportunities where I can learn, contribute, and grow.
+</p>
+
+<br>
